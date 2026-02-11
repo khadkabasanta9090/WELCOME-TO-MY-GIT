@@ -9,12 +9,12 @@
 
 <br>
 
-### learning to build worlds,  
-### design characters, and engineer intelligent systems
+### Learning to build worlds,  
+### Design characters, and engineer intelligent systems
 
 <br><br>
 
-## ✦ focus areas
+## ✦ Focus areas
 **unity development** — gameplay logic, c# scripting, prototyping  
 **blender design** — modeling, animation, visual style exploration  
 **robotics** — dasai robots, embedded systems, motion logic  
@@ -22,13 +22,13 @@
 
 <br>
 
-## ✦ tools & tech
+## ✦ Tools & Tech
 `Unity` · `C#` · `Blender` · `Python` · `ESP32`  
 `VS Code` · `Git` · `Robotics` · `3D Modeling`
 
 <br>
 
-## ✦ current learning path
+## ✦ Current learning path
 - unity scripting & game mechanics  
 - blender modeling + stylized design  
 - robotics motion control & embedded logic  
@@ -36,11 +36,13 @@
 
 <br>
 
-## ✦ projects
-**unity mini‑games** — prototypes, movement systems, interaction logic  
-**blender art** — characters, props, animations  
-**robotics builds** — dasai robot experiments, esp32 control  
-**coding practice** — algorithms, scripting, automation  
+## ✦ Projects
+**Unity mini‑games** — prototypes, movement systems, interaction logic  
+**Blender art** — characters, props, animations  
+**Robotics builds** — dasai robot experiments, esp32 control  
+**Coding practice** — algorithms, scripting, automation  
+**3 lane traffic-light system** - coding, schematic, parts planning
+**PCB Board & Schematics**- Schematic, board design, choose components
 
 <br>
 
@@ -48,6 +50,6 @@
 
 <br><br>
 
-### ✦ creating. learning. leveling up.
+### ✦ Creating. learning. Having Fun.
 
 </div>
