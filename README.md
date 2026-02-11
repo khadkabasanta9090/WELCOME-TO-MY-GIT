@@ -81,6 +81,6 @@ algorithms • automation • system design
 <br>
 
 ### ✦ 在静暗之中，万物成形。  
-### ✦ In the silent dark, creation awakens.
+### ✦ In the silent dark, creation awakens. ✦
 
 </div>
