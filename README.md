@@ -29,10 +29,10 @@
 <br>
 
 ## ✦ Current learning path
-- Unity scripting & game mechanics  
-- Blender modeling + stylized design  
-- Robotics motion control & embedded logic  
-- Building clean, scalable code foundations  
+ Unity scripting & game mechanics  
+ Blender modeling + stylized design  
+ Robotics motion control & embedded logic  
+ Building clean, scalable code foundations  
 
 <br>
 
