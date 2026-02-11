@@ -4,15 +4,15 @@
 
 <br>
 
-# ✦ WELCOME TO THE SHADOW REPOSITORY ✦
+# ✦ WELCOME TO MY GIT ✦
 ### 静寂の工匠 — Architect of Silent Systems  
 coding • unity • blender • robotics  
 dark ambient • eastern minimalism  
 
 <br>
 
-wandering between logic and imagination,  
-forging motion, form, and mechanical spirit  
+Wandering between logic and imagination,  
+Forging motion, Form, and Mechanical spirit  
 in the quiet dark.
 
 <br><br>
@@ -21,18 +21,18 @@ in the quiet dark.
 
 <br><br>
 
-## ✦ disciplines of the craft
+## ✦ Disciplines of the craft
 
-**unity development**  
+**Unity development**  
 c# scripting • gameplay systems • physics • prototypes  
 
-**blender design**  
+**Blender design**  
 stylized modeling • cinematic renders • animation  
 
-**robotics engineering**  
+**Robotics engineering**  
 dasai robots • embedded systems • motion control  
 
-**coding foundations**  
+**Coding foundations**  
 python • c# • microcontrollers • system architecture  
 
 <br><br>
@@ -41,7 +41,7 @@ python • c# • microcontrollers • system architecture
 
 <br><br>
 
-## ✦ tools of the wandering engineer
+## ✦ Tools of the wandering engineer
 
 `Unity` · `C#` · `Blender` · `Python` · `ESP32`  
 `VS Code` · `Git` · `Robotics` · `3D Modeling`
@@ -64,7 +64,7 @@ python • c# • microcontrollers • system architecture
 
 <br><br>
 
-## ✦ current journey
+## ✦ Current journey
 
 - mastering unity physics & advanced movement systems  
 - sculpting characters and environmental props in blender  
@@ -79,16 +79,16 @@ python • c# • microcontrollers • system architecture
 
 ## ✦ works from the shadows
 
-**unity mini-games**  
+**Unity mini-games**  
 movement systems • interaction mechanics • experiments  
 
-**blender art**  
+**Blender art**  
 characters • props • ambient cinematic scenes  
 
-**robotics builds**  
+**Robotics builds**  
 esp32 control • servo orchestration • embedded logic  
 
-**coding practice**  
+**Coding practice**  
 algorithms • automation • system design  
 
 <br><br>
