@@ -46,12 +46,13 @@ python • c# • microcontrollers • system architecture
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="80%">
 
 <br>
+
 ## ✦ Current journey ✦
 
-- mastering unity physics & advanced movement systems  
-- sculpting characters and environmental props in blender  
-- engineering intelligent behaviors for dasai robotics  
-- refining clean, scalable, and elegant code foundations  
+ Mastering unity physics & advanced movement systems  
+ Sculpting characters and environmental props in blender  
+ Engineering intelligent behaviors for dasai robotics  
+ Refining clean, scalable, and elegant code foundations  
 
 <br>
 
