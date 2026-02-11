@@ -50,6 +50,6 @@
 
 <br><br>
 
-### ✦ Creating. learning. Having Fun.
+### ✦ THANK YOU FOR CHECKING IN !! ✦
 
 </div>
