@@ -27,14 +27,14 @@ dasai robots • embedded systems • motion control
 python • c# • microcontrollers • system architecture  
 <br><br>
 
-## ✦ Tools of the wandering Engineer ✦
+## ✦ Tools Of The Wandering Engineer ✦
 Unity · C# · Blender · Python · ESP32  
 VS Code · Git · Robotics · 3D Modeling
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="80%">
 <br>
 
-## ✦ Current journey ✦
+## ✦ Current Journey ✦
  Mastering unity physics & advanced movement systems  
  Sculpting characters and environmental props in blender  
  Engineering intelligent behaviors for dasai robotics  
